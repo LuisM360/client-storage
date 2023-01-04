@@ -1,5 +1,5 @@
 # Client Storage
-A tkinter gui created in pyton to store client name, address, and amount. Once you submit the information it will be
+A tkinter gui created in python to store client name, address, and amount. Once you submit the information it will be
 added to a sqlite3 database for long term use.
 
 ## How It's Made:
